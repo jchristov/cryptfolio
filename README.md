@@ -54,8 +54,9 @@ After importing the code and refreshing the spreadsheet you should see a sheet a
 3. Trade tracking
 
 **Coming next**
-4. Cost basis
-5. Taxes?
+
+1. Cost basis
+2. Tax calculator
 
 # CONTRIBUTING
 
